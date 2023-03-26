@@ -1,0 +1,3 @@
+welcome to my github acc! hope u can enjoy and also learn new thing from this acc.
+i'm focusing on learning back-end dev and a little bit of data science right now.
+languages: java, python, sql
